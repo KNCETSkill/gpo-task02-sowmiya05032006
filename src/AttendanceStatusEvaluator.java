@@ -7,10 +7,10 @@ public class AttendanceStatusEvaluator {
       System.out.println("Excellent");
     } else if (attendance >= 60 && attendance <= 85) {
       System.out.println("Satisfactory");
-    }else {
+    } else {
       System.out.println("Poor");
     }
-    sc.close()
+    sc.close();
   }
 }
   

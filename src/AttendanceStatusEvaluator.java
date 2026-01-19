@@ -11,7 +11,7 @@ public class AttendanceStatusEvaluator{
       System.out.println("Satisfactory");
     }
     else{
-      System.out.Println("Poor");
+      System.out.println("Poor");
     }
   }
   
